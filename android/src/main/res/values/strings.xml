@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Waky</string>
+    <string name="add_alarm">Add alarm</string>
+    <string name="find_waky">Find waky</string>
+    <string name="demo">Demo sunrise</string>
+    <string name="demo_alarm">Demo alarm view</string>
+    <string name="bt_not_enabled">Bluetooth not enabled. Cannot find waky that way! :(</string>
+    <string name="connect_failed">Couldn\'t connect to waky :(</string>
+    <string name="connect_success">Found waky :)</string>
+    <string name="searching">Finding waky...</string>
+    <string name="connected">Connected to Waky!</string>
+    <string name="cant_connect">Can\'t find waky :(</string>
+    <string name="disconnected">Waky is gone!</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

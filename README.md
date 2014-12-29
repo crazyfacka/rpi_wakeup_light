@@ -111,4 +111,4 @@ Yup, there's still more stuff that I would like to do. Is a project ever complet
 Acknowledgments
 ================
 
-The cat image used in the Alarm Activity was *provided* by Denis Sazhin @ https://www.iconfinder.com/iconka. The video loop used in the Alarm Activity was retrieved from a music video by Slightly Left of Centre @ https://www.youtube.com/watch?v=Wga5A6R9BJg. The colour pallete used in the application it's from the user sugar and can be found @ http://www.colourlovers.com/palette/629637/(%E2%97%95%E3%80%9D%E2%97%95).
+The cat image used in the Alarm Activity was *provided* by Denis Sazhin @ https://www.iconfinder.com/iconka. The video loop used in the Alarm Activity was retrieved from a music video by Slightly Left of Centre @ https://www.youtube.com/watch?v=Wga5A6R9BJg. The colour palette used in the application it's from the user sugar and can be found @ http://www.colourlovers.com/palette/629637/(%E2%97%95%E3%80%9D%E2%97%95).

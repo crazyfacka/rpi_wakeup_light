@@ -66,8 +66,9 @@ Hardware and soldering shenanigans
 
 For this you need to get to your nearest hardware store and get this stuff (or similar):
 
-1. 12v 2A DC Power supply (my LED strip was 12V)
+1. 12v 2A DC Power supply (my LED strip was 12v)
 2. 5v voltage regulator
+	- The Raspberry Pi runs on 5v, so we need to get those 12v down a notch.
 	- I got [L7805CV](http://uk.farnell.com/stmicroelectronics/l7805cv/ic-v-reg-5-0v-7805-to-220-3/dp/9756078).
 3. 500mA fuse
 	- So that you don't accidentally fry your voltage regulator.

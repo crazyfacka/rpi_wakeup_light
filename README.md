@@ -105,6 +105,7 @@ ToDo
 Yup, there's still more stuff that I would like to do. Is a project ever completed? :)
 
 - Perform communication from the Raspberry Pi to the Android device (ex.: update LED state from button switches)
+- Make the analog clock in the Android application represent the actual alarm time (source: http://stackoverflow.com/questions/16786441/set-time-with-custom-android-analogclock-from-its-original-class)
 - General improvements on the Android application
 - General improvements on the Raspberry Pi application(s)
 

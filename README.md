@@ -88,7 +88,7 @@ For this you need to get to your nearest hardware store and get this stuff (or s
 9. A 200Ω resistor
 	- The 3.3v from the Raspberry Pi GPIO is too much for the red LED.
 	
-So, this is it. The was this is wired can be seen in the file [sketch.fzz](https://github.com/crazyfacka/rpi_wakeup_light/blob/master/sketch.fzz). You need the app Fritzing (http://fritzing.org/home/) to open it.
+So, this is it. The way this is wired can be seen in the file [sketch.fzz](https://github.com/crazyfacka/rpi_wakeup_light/blob/master/sketch.fzz). You need the app Fritzing (http://fritzing.org/home/) to open it.
 
 Bear in mind that I am by no means an electrical engineer, and all I know I learned from the interwebs, so some schematics mistakes could be expected :)
 

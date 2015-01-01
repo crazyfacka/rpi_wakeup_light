@@ -113,7 +113,6 @@ public class AlarmActivity extends Activity {
         try {
 
             // Play alarm tone in a continuous loop
-
             ringtone = new MediaPlayer();
 
             ringtone.setOnPreparedListener(new MediaPlayer.OnPreparedListener() {
@@ -123,7 +122,7 @@ public class AlarmActivity extends Activity {
                 }
             });
 
-            ringtone.setDataSource(notySoundUri);
+            ringtone.setDataSource(getApplicationContext(), Uri.parse(notySoundUri));
             ringtone.setLooping(true);
             ringtone.setAudioStreamType(AudioManager.STREAM_ALARM);
             ringtone.prepareAsync();

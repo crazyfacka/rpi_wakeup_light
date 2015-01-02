@@ -234,6 +234,10 @@ public class MainActivity extends Activity implements TimePickerFragment.OnAlarm
         c.set(Calendar.HOUR_OF_DAY, hourOfDay);
         c.set(Calendar.MINUTE, minute);
 
+        if(c.getTimeInMillis() < System.currentTimeMillis()) {
+            c.add(Calendar.DATE, 1);
+        }
+
         mAlarmManager.setExact(AlarmManager.RTC_WAKEUP, c.getTimeInMillis(), mNotificationReceiverPendingIntent);
 
         try {
